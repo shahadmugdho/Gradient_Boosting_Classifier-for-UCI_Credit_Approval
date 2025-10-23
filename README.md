@@ -1,0 +1,2 @@
+# Gradient_Boosting_Classifier-for-UCI_Credit_Approval
+This repository contains a comprehensive, beginner-friendly IPython notebook that implements a Gradient Boosting Classifier for a binary classification task using the UCI Credit Approval dataset (ID=27). The project demonstrates data preprocessing, model training, evaluation, and visualization, comparing GBC against baseline models (LR and Dummy).
