@@ -132,9 +132,12 @@ y_raw = df[target_col]
 
 Improvements: Consider adding precision-recall curves for imbalanced datasets or tuning hyperparameters (e.g., n_estimators=200, learning_rate=0.05) for better performance.
 
+Quinlan, J. (1987). Credit Approval [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5FS30.
+
 License
 This project is licensed under the MIT License (see LICENSE file, if included).
 Contact
-For questions or contributions, open an issue or contact [your-username] on GitHub.
+For questions or contributions, open an issue or contact [shahadmugdho] on GitHub.
+
 
 Generated on October 24, 2025
